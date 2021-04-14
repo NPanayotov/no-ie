@@ -59,6 +59,7 @@ https://css-tricks.com/adding-stroke-to-web-text/
 **Text fill-color and gradient**
 
 https://css-tricks.com/how-to-do-knockout-text/
+
 https://css-tricks.com/snippets/css/gradient-text/
 
 **Line-clamp**
